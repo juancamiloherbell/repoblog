@@ -2,4 +2,5 @@ hola mi nombre es juan camilo hernandez
 
 tengo 28 años 
 vivo en facatativa
-esta es la prueba 2 de git
+actualmete estoy mejorando mis conocimientos en sistemas
+esta es la prueba 3 de git
